@@ -8,7 +8,9 @@
 ## Code and resources
 
 Platform: Google Colab
+
 Python version: 3.7.6
+
 Packages: itertools, os, matplotlib, pandas, numpy, seaborn and sklearn
 
 ## Data set
