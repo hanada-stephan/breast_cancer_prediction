@@ -1,5 +1,7 @@
 # Breast cancer prediction: Project overview
 
+**Tags: logistic regression, accuracy, feature engineering, feature scaling, confusion matrix, health**
+
 - This notebook is part of learning the first steps on Kaggle guided project on Coursera, "Breast Cancer Prediction Using Machine Learning" by Priya Jha ([Link](https://www.coursera.org/projects/breast-cancer-prediction-using-machine-learning)). 
 - Created a model that diagnoses breast cancer. 
 - Performed features scaling.
@@ -30,4 +32,3 @@ I tried only one model, the logistic regression, that performed well, and there 
 ## Model performance
 
 The logistic regression had an accuracy of 0.97 with only five false negatives.
-
